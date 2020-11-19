@@ -24,7 +24,7 @@
 | Date         | Release | Notes
 |:-------------|:--------|:----------
 | October 2020 | [1.3](https://github.com/mottosso/allzpark/releases/tag/1.3.0) | Dedicated profiles panel
-| August 2019  | 1.2 | First official release 
+| August 2019  | 1.2 | First official release
 
 - See [all releases](https://github.com/mottosso/allzpark/releases)
 
@@ -69,3 +69,4 @@ cd allzpark\docs
 ```
 
 This will build the docs and deploy it onto the `gh-pages` branch, which is reflected live after about 1 min.
+
